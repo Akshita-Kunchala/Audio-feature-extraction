@@ -20,6 +20,7 @@ The extracted features capture key spectral and perceptual characteristics of au
 * Export of extracted features to CSV format
 
 ## Project Structure
+```
 Audio-feature-extraction/
 ├── feature_extraction.py      # Core audio processing and feature extraction logic
 ├── README.md                  # Project documentation
@@ -32,6 +33,9 @@ Audio-feature-extraction/
 │   ├── chroma.png
 │   └── spectral_contrast.png
 └── sample_audios/             # Sample audio inputs used for testing
+```
+
+---
 
 
 ## Technical Details
