@@ -64,7 +64,7 @@ Waveform and spectral visualizations are generated to validate preprocessing ste
 * Pandas
 * Matplotlib
 * Scikit-learn
-* 
+
 ## Applications
 * Audio and speech classification
 * Music information retrieval
