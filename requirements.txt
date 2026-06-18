@@ -3,6 +3,6 @@ librosa
 numpy
 pandas
 matplotlib
-scikit-learn
 soundfile
 audioread
+scikit-learn
